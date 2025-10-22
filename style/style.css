@@ -39,9 +39,5 @@ header img {
 }
 .table-container {
     white-space: normal;
-}
-.prova {
-    border-collapse: collapse
-    white-space: nowrap;
-    
+    text-transform: lowercase
 }
