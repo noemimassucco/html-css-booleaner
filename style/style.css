@@ -4,6 +4,7 @@ header {
     background-color: rgb(57, 166, 255);
     background-size: contain ;
     background-image: 
+
 }
 header img {
     height: 40px;
@@ -32,6 +33,15 @@ header img {
     font-family: 'Arial', sans-serif;
     font-size: 18px;
     color: rgb(255, 255, 255);
-    background-color: rgb(81, 106, 216);
+    background-color: rgb(125, 198, 230);
+    font-weight: bold
+;
 }
-
+.table-container {
+    white-space: normal;
+}
+.prova {
+    border-collapse: collapse
+    white-space: nowrap;
+    
+}
