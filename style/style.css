@@ -22,7 +22,8 @@ header img {
     color: rgb(89, 89, 89);
     margin-top: 15px;
 }
-.immagini-Tim {
+.immagini.Tim {
     height: 200px;
     margin-top: 20px;
+    border-image: fill blue 30;
 }
